@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrandonRivas
 - 👀 I’m interested in web development as a career
-- 🌱 I’m currently learning HTML & CSS
+- 🌱 I’m currently enrolled in a web development bootcamp! 
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me brandon.a.ri@hotmail.com
 
